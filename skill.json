@@ -1,0 +1,15 @@
+{
+  "name": "genpark-l3-limit-order-book-matcher-skill",
+  "version": "1.0.0",
+  "description": "Ultra-low-latency Price-Time Priority Level-3 (L3) Limit Order Book (LOB) matching engine with continuous price queues and fills.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "order-book",
+    "hft",
+    "market-microstructure",
+    "trading-engine"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
